@@ -7,25 +7,6 @@
 
 
 }
-
-.origins {
-  border-style: solid;
-}
-
-.growth {
-  border-style: solid;
-
-}
-
-.innovation {
-
-  border-style: solid;
-}
-
-.today {
-    border-style: solid;
-}
-
 .riders {
 
    margin: 2rem;
@@ -38,18 +19,19 @@
 }
 
 .riders img {
-  max-width: 100%
+  max-width: 100%;
+  height: 320px;
 }
 .ricky {
-  border-style: solid;
+  border: 1px solid #000;
 }
 
 .stewart {
-  border-style: solid;
+  border: 1px solid #000;
 }
 
 .Roczen {
-  border-style: solid;
+  border: 1px solid #000;
 }
 
 .personal {
